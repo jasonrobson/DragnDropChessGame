@@ -1,2 +1,0 @@
-# DragnDropChessGame
-Created with CodeSandbox
